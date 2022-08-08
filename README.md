@@ -6,7 +6,7 @@ Why should you use EndstoneMC?
 - High tps!
 - Support for all plugins.
 - High preformance.
-- 1.19 support!
+- 1.18.2 support!
 - Super easy install!
 
 Enjoy it!
